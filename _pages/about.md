@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "your name here"
+title: "about ne"
 author_profile: true
 redirect_from: 
   - /about/
@@ -9,4 +9,4 @@ redirect_from:
 
 This is a personal intro of your self for teaching
 
-hi i am david
+hello world
